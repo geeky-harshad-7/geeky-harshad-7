@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geeky-harshad-7
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++, java, kotlin, android development 
+- 🌱 I’m currently learning java, android development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
